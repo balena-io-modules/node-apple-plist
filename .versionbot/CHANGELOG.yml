@@ -1,18 +1,28 @@
+- commits:
+    - subject: Add versionbot changelog
+      hash: b4891ce1aef406f0b868457e24ba4004dc4f8e9f
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alexis Svinartchouk
+  version: 0.0.3
+  date: 2020-11-30T19:10:19.566Z
 - version: 0.0.2
-  date: 2020-08-17T17:51:16Z
+  date: 2020-08-17T17:51:16.000Z
   commits:
     - hash: 474314180d52f181549f59c7f0f08d2ebad47813
       author: Alexis Svinartchouk
       footers:
         change-type: patch
       subject: Update mocha to ^8
-      body:
+      body: null
     - hash: 9391104a6f81b0a038d2e2ede1a1dc7a3c26095f
       author: Alexis Svinartchouk
       footers:
         change-type: patch
       subject: Move to balena-io-modules
-      body:
+      body: null
     - hash: b3576d7f2fcca115feb56e72b59c46a673bf271d
       author: Alexis Svinartchouk
       subject: 'Revert "test: Migrate from mocha -> control"'
@@ -24,4 +34,4 @@
       footers:
         change-type: patch
       subject: Replace htmlparser2 with sax
-      body:
+      body: null
